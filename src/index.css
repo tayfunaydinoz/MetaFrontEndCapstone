@@ -1,13 +1,144 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.primaryBgColor{
+    background-color: #495E57 !important;
+}
+.secondaryBgColor{
+    background-color: #F4CE14 !important;
+}
+.lightBgColor{
+    background-color: #EDEFEE !important;
+}
+.darkBgColor{
+    background-color: #333333 !important;
+}
+.lightColor{
+    color: #EDEFEE !important;
+}
+.heroTitle{
+    color: #F4CE14 !important;
+    font-size: 52px !important;
+    font-family: Inter !important;
+    font-weight: 600 !important;
+}
+.heroSubTitle{
+    color: #EDEFEE !important;
+    font-size: 24px !important;
+    font-family: Inter !important;
+    font-weight: 400 !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navText{
+    font-size: 17px !important;
+    font-family: Inter !important;
+    font-weight: 600 !important;
+}
+.text{
+    font-size: 20px !important;
+    font-family: Inter !important;
+    font-weight: 300 !important;
+}
+.highlightsTitle{
+    font-size: 38px !important;
+    font-family: Inter !important;
+    font-weight: 500 !important;
+    letter-spacing: 1.52px !important;
+}
+
+.price{
+    color: #EE9972 !important;
+    font-size: 16px !important;
+    font-family: Inter !important;
+    font-weight: 500 !important;
+}
+.cardTitle{
+    font-size: 18px !important;
+    font-family: Inter !important;
+    font-weight: 500 !important;
+}
+.cardText{
+    font-size: 14px !important;
+    font-family: Inter !important;
+    font-weight: 300 !important;
+}
+
+.testimonial-title{
+    font-size: 28px !important;
+    font-family: Inter !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.56px !important;
+}
+.testimonial-cardTitle{
+    font-size: 14px!important;
+    font-family: Inter!important;
+    font-weight: 500!important;
+    letter-spacing: 0.84px!important;
+}
+.testimonial-cardName{
+    font-size: 13px!important;
+    font-family: Inter!important;
+    font-weight: 500!important;
+    letter-spacing: 0.78px!important;
+}
+.testimonial-cardText{
+    font-size: 12px!important;
+    font-family: Inter!important;
+    font-weight: 500!important;
+    letter-spacing: 0.72px!important;
+}
+.custom-btn {
+    background-color: #F4CE14 !important;
+    color: #333333 !important;
+    font-weight: 500 !important;
+    border-color: #333333 !important;
+}
+.custom-btn:hover {
+background-color: #333333 !important;
+color: #F4CE14  !important;
+font-weight: 500 !important;
+border-color: #F4CE14 !important;
+}
+.aboutTitle{
+    color: #F4CE14 !important;
+    font-size: 48px !important;
+    font-family: Inter !important;
+    font-weight: 600 !important;
+}
+.aboutSubTitle{
+    color: #EDEFEE !important;
+    font-size: 28px !important;
+    font-family: Inter !important;
+    font-weight: 400 !important;
+}
+.aboutText{
+    color: #EDEFEE !important;
+    font-size: 19.50px !important;
+    font-family: Inter !important;
+    font-weight: 500 !important;
+    letter-spacing: 1.95px !important;
+}
+.footerTextColor{
+    color: #EDEFEE !important;
+}
+.footerCardTitle{
+    font-size: 20px !important;
+    font-family: Inter !important;
+    font-weight: 600 !important;
+}
+.footerCardText{
+    font-size: 20px !important;
+    font-family: Inter !important;
+    font-weight: 100 !important;
+}
+.reservationCardTitle{
+    text-shadow: 1px 1px #F4CE14;
+    color: #EDEFEE !important;
+    font-size: 52px !important;
+    font-family: Inter !important;
+    font-weight: 600 !important;
+}
+.reservationCardText{
+    text-shadow: 1px 1px #333333;
+    color: #EDEFEE !important;
+    font-size: 24px !important;
+    font-family: Inter !important;
+    font-weight: 600 !important;
 }
